@@ -1,0 +1,9 @@
+{
+    "name": "KaguyaTheme,
+    "description": "Theme of kaguya",
+    "version": "1",
+    "author": "By Alvedo#0001",
+    "theme": "Kaguya.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}

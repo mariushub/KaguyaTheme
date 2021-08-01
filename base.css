@@ -2,7 +2,7 @@
  * @name KaguyaTheme
  * @author By Alvedo#0001
  * @description Theme de Kaguya
- * @version 1.1.1
+ * @version 1.1
  * @source https://mariushub.github.io/KaguyaTheme/base.css
  */
  
@@ -2614,8 +2614,7 @@ svg.
     color:transparent;
 }
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
-  color: black;
-  background-color: black;
+  display: none;
 }
 .homeIcon-FuNwkv{
     background-image: url("https://i.ibb.co/6gbGg0R/farp-small-wall-texture-product-750x1000-u8-removebg-preview.png");

@@ -5,9 +5,7 @@
  * @version 1
  * @source https://mariushub.github.io/KaguyaTheme/base.css
  */
-
-#test
-
+ 
 .app-2rEoOp {
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://images4.alphacoders.com/957/thumb-1920-957926.png);
   background-size: cover;
@@ -109,7 +107,7 @@
 }
 
 .childWrapper-anI2G9{
-  background-color: gray;
+  background-color: black;
 }
 .input-cIJ7To:focus {
   border-color: #808080 !important;

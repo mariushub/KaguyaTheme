@@ -2,7 +2,7 @@
  * @name KaguyaTheme
  * @author By Alvedo#0001
  * @description Theme de Kaguya
- * @version 1.1.4
+ * @version 1.1.5
  * @source https://mariushub.github.io/KaguyaTheme/base.css
  */
  
@@ -2645,7 +2645,7 @@ svg.
   background-color: rgba(0, 0, 0, 0.6);
 }
 
-.app-mount{
+#app-mount{
   display: none;
 }
 
